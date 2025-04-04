@@ -5,7 +5,7 @@ import colors from '../constants/colors';
 export const HomeScreen = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>RankAI Homescreen</Text>
+      <Text style={styles.title}>RankAI Homescreenn</Text>
     </View>
   );
 };
